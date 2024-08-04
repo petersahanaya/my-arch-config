@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0;   
+    padding: 0;
+    font-family: "Figtree", "system-ui";
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    padding: .7rem;
+    background-color: black;
+    color: white;
+}
+
+.container h1 {
+    font-size: 4rem;
+}
+
+.container form {
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+}
+
+.container form label {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.container form input {
+    padding: .6rem;
+}
+
+.container select {
+    padding: .7rem;
+}
+
+.container button {
+    font-size: 1.2rem;
+    padding: .6rem;
+    border: none;
+
+}
+
+/*karena kamu nigga jadi backgroundnya harus hitam*/

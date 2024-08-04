@@ -1,0 +1,344 @@
+2024-08-02 09:12:21.087 [info] Tools environment: GOPATH=/home/peter/go, GOTOOLCHAIN=auto
+2024-08-02 09:12:21.087 [info] Installing 2 tools at /home/peter/go/bin
+2024-08-02 09:12:21.087 [info]   gopls
+2024-08-02 09:12:21.087 [info]   staticcheck
+2024-08-02 09:12:21.087 [info] 
+2024-08-02 09:12:54.188 [info] Installing golang.org/x/tools/gopls@latest (/home/peter/go/bin/gopls) SUCCEEDED
+2024-08-02 09:13:44.535 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/peter/go/bin/staticcheck) SUCCEEDED
+2024-08-02 09:13:44.536 [info] 
+2024-08-02 09:13:44.536 [info] All tools successfully installed. You are ready to Go. :)
+2024-08-02 09:13:44.573 [info] Try to start language server - activation (enabled: true)
+2024-08-02 09:13:44.644 [info] Running language server gopls(v0.16.1/go1.22.5)
+2024-08-02 09:13:59.427 [info] Running checks...
+2024-08-02 09:13:59.428 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:13:59.675 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:13:59.675 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:54:18 syntax error: unexpected newline in composite literal; possibly missing comma or } (compile)
+2024-08-02 09:13:59.675 [info] 
+2024-08-02 09:14:26.051 [info] Running checks...
+2024-08-02 09:14:26.051 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:14:26.247 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:14:26.247 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:14:26.247 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:53:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:14:26.247 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:54:31 time.Now().Nanosecond().String undefined (type int has no field or method String) (compile)
+2024-08-02 09:14:26.247 [info] 
+2024-08-02 09:14:39.312 [info] Running checks...
+2024-08-02 09:14:39.312 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:14:39.509 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:14:39.509 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:14:39.509 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:53:3 invalid operation: cannot indirect user (variable of type User) (compile)
+2024-08-02 09:14:39.509 [info] 
+2024-08-02 09:15:18.514 [info] Running checks...
+2024-08-02 09:15:18.515 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:15:18.706 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:15:18.706 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:15:18.706 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:53:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:15:18.706 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:54:16 (string).time undefined (type string has no field or method time) (compile)
+2024-08-02 09:15:18.706 [info] 
+2024-08-02 09:15:58.693 [info] Running checks...
+2024-08-02 09:15:58.693 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:15:58.894 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:15:58.894 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:15:58.894 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:53:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:15:58.894 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:54:14 string.time undefined (type string has no field or method time) (compile)
+2024-08-02 09:15:58.894 [info] 
+2024-08-02 09:16:00.809 [info] Running checks...
+2024-08-02 09:16:00.809 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:16:00.998 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:16:00.999 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:16:00.999 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:53:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:16:00.999 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:54:7 cannot use time.Now().Nanosecond() (value of type int) as string value in struct literal (compile)
+2024-08-02 09:16:00.999 [info] 
+2024-08-02 09:16:29.445 [info] Running checks...
+2024-08-02 09:16:29.445 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:16:29.639 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:16:29.639 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:16:29.639 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:53:3 invalid operation: cannot indirect user (variable of type User) (compile)
+2024-08-02 09:16:29.639 [info] 
+2024-08-02 09:17:18.880 [info] Running checks...
+2024-08-02 09:17:18.880 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:17:19.067 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:17:19.067 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:60:13 syntax error: unexpected comma, expected expression (compile)
+2024-08-02 09:17:19.067 [info] 
+2024-08-02 09:17:44.280 [info] Running checks...
+2024-08-02 09:17:44.280 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:17:44.486 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:17:44.486 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:59:13 syntax error: unexpected comma, expected expression (compile)
+2024-08-02 09:17:44.486 [info] 
+2024-08-02 09:18:28.383 [info] Running checks...
+2024-08-02 09:18:28.383 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:18:28.576 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:18:28.576 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:59:13 syntax error: unexpected comma, expected expression (compile)
+2024-08-02 09:18:28.576 [info] 
+2024-08-02 09:19:04.996 [info] Running checks...
+2024-08-02 09:19:04.996 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:19:05.175 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:19:05.175 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:60:13 syntax error: unexpected comma, expected expression (compile)
+2024-08-02 09:19:05.175 [info] 
+2024-08-02 09:19:37.091 [info] Running checks...
+2024-08-02 09:19:37.091 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:19:37.295 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:19:37.295 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:61:13 syntax error: unexpected comma, expected expression (compile)
+2024-08-02 09:19:37.295 [info] 
+2024-08-02 09:20:12.697 [info] Running checks...
+2024-08-02 09:20:12.697 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:12.887 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:12.887 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:64:13 syntax error: unexpected comma, expected expression (compile)
+2024-08-02 09:20:12.887 [info] 
+2024-08-02 09:20:22.851 [info] Running checks...
+2024-08-02 09:20:22.851 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:23.174 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:23.174 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:46:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:20:23.174 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:23.174 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:64:13 cannot use username (variable of type *string) as string value in struct literal
+2024-08-02 09:20:23.174 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:23.174 [info] 
+2024-08-02 09:20:25.053 [info] Running checks...
+2024-08-02 09:20:25.053 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:25.249 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:25.249 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:46:5 not enough arguments in call to isAuthenticated
+2024-08-02 09:20:25.249 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:25.249 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:25.249 [info] 
+2024-08-02 09:20:40.893 [info] Running checks...
+2024-08-02 09:20:40.893 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:41.129 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:41.129 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:41.129 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:41.129 [info] 
+2024-08-02 09:20:43.456 [info] Running checks...
+2024-08-02 09:20:43.457 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:43.685 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:43.685 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:46:22 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:43.685 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:43.685 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:43.685 [info] 
+2024-08-02 09:20:44.609 [info] Running checks...
+2024-08-02 09:20:44.610 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:44.828 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:44.828 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:44.828 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:44.828 [info] 
+2024-08-02 09:20:56.083 [info] Running checks...
+2024-08-02 09:20:56.083 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:56.261 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:56.261 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:46:22 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:56.261 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:56.261 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:56.261 [info] 
+2024-08-02 09:20:59.651 [info] Running checks...
+2024-08-02 09:20:59.651 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:20:59.863 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:20:59.863 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:62:3 invalid operation: cannot indirect user (variable of type User)
+2024-08-02 09:20:59.863 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:20:59.863 [info] 
+2024-08-02 09:21:37.659 [info] Running checks...
+2024-08-02 09:21:37.659 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:21:37.850 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:21:37.850 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:47:8 user.SignIn undefined (type User has no field or method SignIn)
+2024-08-02 09:21:37.850 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:51:13 user (variable of type User) is not a type
+2024-08-02 09:21:37.850 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:21:37.850 [info] 
+2024-08-02 09:21:48.874 [info] Running checks...
+2024-08-02 09:21:48.874 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:21:49.070 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:21:49.070 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:74:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:21:49.070 [info] 
+2024-08-02 09:22:25.526 [info] Running checks...
+2024-08-02 09:22:25.526 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:22:25.731 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:22:25.731 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:77:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:22:25.731 [info] 
+2024-08-02 09:22:52.593 [info] Running checks...
+2024-08-02 09:22:52.593 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:22:52.843 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:22:52.843 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:81:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:22:52.843 [info] 
+2024-08-02 09:23:00.118 [info] Running checks...
+2024-08-02 09:23:00.119 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:23:00.325 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:23:00.325 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:81:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:23:00.325 [info] 
+2024-08-02 09:23:12.920 [info] Running checks...
+2024-08-02 09:23:12.920 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:23:13.128 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:23:13.128 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:83:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:23:13.128 [info] 
+2024-08-02 09:23:16.161 [info] Running checks...
+2024-08-02 09:23:16.161 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:23:16.365 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:23:16.365 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:23:16.365 [info] 
+2024-08-02 09:23:56.978 [info] Running checks...
+2024-08-02 09:23:56.978 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:23:57.157 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:23:57.157 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:13 invalid operation: time.Second * second (mismatched types time.Duration and uint) (compile)
+2024-08-02 09:23:57.157 [info] 
+2024-08-02 09:23:58.552 [info] Running checks...
+2024-08-02 09:23:58.552 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:23:58.745 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:23:58.745 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:23:58.745 [info] 
+2024-08-02 09:24:40.830 [info] Running checks...
+2024-08-02 09:24:40.830 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:24:41.028 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:24:41.028 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:24:41.028 [info] 
+2024-08-02 09:24:57.507 [info] Running checks...
+2024-08-02 09:24:57.507 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:24:57.681 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:24:57.681 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:13 invalid operation: time.Second * ms (mismatched types time.Duration and int) (compile)
+2024-08-02 09:24:57.681 [info] 
+2024-08-02 09:25:22.306 [info] Running checks...
+2024-08-02 09:25:22.306 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:25:22.471 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:25:22.471 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:13 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:25:22.471 [info] 
+2024-08-02 09:25:27.893 [info] Running checks...
+2024-08-02 09:25:27.893 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:25:28.095 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:25:28.095 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:82:27 invalid operation: time.Second * second (mismatched types time.Duration and int) (compile)
+2024-08-02 09:25:28.095 [info] 
+2024-08-02 09:25:35.013 [info] Running checks...
+2024-08-02 09:25:35.014 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:25:36.671 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:25:36.671 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:37:3 redundant break statement (S1023)
+2024-08-02 09:25:36.671 [info] 
+2024-08-02 09:26:09.988 [info] Running checks...
+2024-08-02 09:26:09.988 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:26:10.176 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:26:10.177 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:37:3 redundant break statement (S1023)
+2024-08-02 09:26:10.177 [info] 
+2024-08-02 09:26:22.880 [info] Running checks...
+2024-08-02 09:26:22.880 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:26:23.051 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:26:23.052 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:37:3 redundant break statement (S1023)
+2024-08-02 09:26:23.052 [info] 
+2024-08-02 09:27:41.503 [info] Running checks...
+2024-08-02 09:27:41.503 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:27:41.816 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:27:41.816 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:42:3 redundant break statement (S1023)
+2024-08-02 09:27:41.816 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:54:9 empty branch (SA9003)
+2024-08-02 09:27:41.816 [info] 
+2024-08-02 09:27:54.083 [info] Running checks...
+2024-08-02 09:27:54.083 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:27:54.311 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:27:54.311 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:43:3 redundant break statement (S1023)
+2024-08-02 09:27:54.311 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:55:9 empty branch (SA9003)
+2024-08-02 09:27:54.311 [info] 
+2024-08-02 09:28:27.585 [info] Running checks...
+2024-08-02 09:28:27.585 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:28:27.779 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:28:27.779 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:45:3 redundant break statement (S1023)
+2024-08-02 09:28:27.779 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:57:9 empty branch (SA9003)
+2024-08-02 09:28:27.779 [info] 
+2024-08-02 09:28:53.288 [info] Running checks...
+2024-08-02 09:28:53.288 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:28:53.451 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:28:53.451 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:29:38 syntax error: unexpected ], expected operand (compile)
+2024-08-02 09:28:53.451 [info] 
+2024-08-02 09:29:00.179 [info] Running checks...
+2024-08-02 09:29:00.179 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:29:00.335 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:29:00.335 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:28:24 len(TICKETS) (value of type int) is not constant (compile)
+2024-08-02 09:29:00.335 [info] 
+2024-08-02 09:29:14.082 [info] Running checks...
+2024-08-02 09:29:14.082 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:29:14.285 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:29:14.285 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:45:3 redundant break statement (S1023)
+2024-08-02 09:29:14.285 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:57:9 empty branch (SA9003)
+2024-08-02 09:29:14.285 [info] 
+2024-08-02 09:29:55.822 [info] Running checks...
+2024-08-02 09:29:55.822 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:29:56.006 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:29:56.006 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:45:3 redundant break statement (S1023)
+2024-08-02 09:29:56.006 [info] 
+2024-08-02 09:31:07.605 [info] Running checks...
+2024-08-02 09:31:07.605 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:31:07.824 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:31:07.824 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:45:3 redundant break statement (S1023)
+2024-08-02 09:31:07.824 [info] 
+2024-08-02 09:32:28.274 [info] Running checks...
+2024-08-02 09:32:28.274 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:32:28.430 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:32:28.430 [info] /home/peter/Developer/go/day_1/packages/find/find.go:7:24 undefined: cli.Movies (compile)
+2024-08-02 09:32:28.430 [info] 
+2024-08-02 09:32:35.516 [info] Running checks...
+2024-08-02 09:32:35.516 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:32:35.680 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:32:35.680 [info] /home/peter/Developer/go/day_1/packages/find/find.go:7:20 cli.TICKETS (variable of type []cli.Movie) is not a type (compile)
+2024-08-02 09:32:35.680 [info] 
+2024-08-02 09:32:57.966 [info] Running checks...
+2024-08-02 09:32:57.966 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:32:58.132 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:32:58.132 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:28:26 undefined: TICKETS (compile)
+2024-08-02 09:32:58.132 [info] 
+2024-08-02 09:33:03.635 [info] Running checks...
+2024-08-02 09:33:03.635 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:33:03.821 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:33:03.821 [info] /home/peter/Developer/go/day_1/internal/cli/cli.go:45:3 redundant break statement (S1023)
+2024-08-02 09:33:03.821 [info] 
+2024-08-02 09:33:14.675 [info] Running checks...
+2024-08-02 09:33:14.675 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:33:14.839 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:33:14.839 [info] /home/peter/Developer/go/day_1/packages/find/find.go:7:20 cli.Movies (variable of type []cli.Movie) is not a type (compile)
+2024-08-02 09:33:14.839 [info] 
+2024-08-02 09:33:30.788 [info] Running checks...
+2024-08-02 09:33:30.788 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:33:30.907 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:33:30.907 [info] /home/peter/Developer/go/day_1/packages/find/find.go:3:20 undefined: Movie (compile)
+2024-08-02 09:33:30.907 [info] 
+2024-08-02 09:33:37.824 [info] Running checks...
+2024-08-02 09:33:37.824 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:33:38.019 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:33:38.019 [info] 
+2024-08-02 09:35:10.540 [info] Running checks...
+2024-08-02 09:35:10.540 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:35:10.704 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:35:10.704 [info] /home/peter/Developer/go/day_1/packages/find/find.go:8:6 results declared and not used
+2024-08-02 09:35:10.704 [info] /home/peter/Developer/go/day_1/packages/find/find.go:10:6 non-boolean condition in if statement (compile)
+2024-08-02 09:35:10.704 [info] 
+2024-08-02 09:35:17.967 [info] Running checks...
+2024-08-02 09:35:17.967 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:35:18.130 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:35:18.131 [info] /home/peter/Developer/go/day_1/packages/find/find.go:8:6 results declared and not used
+2024-08-02 09:35:18.131 [info] /home/peter/Developer/go/day_1/packages/find/find.go:8:16 undefined: Movie
+2024-08-02 09:35:18.131 [info] /home/peter/Developer/go/day_1/packages/find/find.go:10:6 non-boolean condition in if statement (compile)
+2024-08-02 09:35:18.131 [info] 
+2024-08-02 09:35:21.279 [info] Running checks...
+2024-08-02 09:35:21.279 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:35:21.446 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:35:21.446 [info] /home/peter/Developer/go/day_1/packages/find/find.go:8:6 results declared and not used
+2024-08-02 09:35:21.446 [info] /home/peter/Developer/go/day_1/packages/find/find.go:10:6 non-boolean condition in if statement (compile)
+2024-08-02 09:35:21.446 [info] 
+2024-08-02 09:35:31.937 [info] Running checks...
+2024-08-02 09:35:31.937 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:35:32.105 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:35:32.105 [info] /home/peter/Developer/go/day_1/packages/find/find.go:10:6 non-boolean condition in if statement (compile)
+2024-08-02 09:35:32.105 [info] 
+2024-08-02 09:35:41.575 [info] Running checks...
+2024-08-02 09:35:41.575 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:35:41.751 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:35:41.751 [info] /home/peter/Developer/go/day_1/packages/find/find.go:11:14 this result of append is never used, except maybe in other appends (SA4010)
+2024-08-02 09:35:41.751 [info] 
+2024-08-02 09:36:16.875 [info] Running checks...
+2024-08-02 09:36:16.875 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:36:17.051 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:36:17.051 [info] 
+2024-08-02 09:38:36.882 [info] Running checks...
+2024-08-02 09:38:36.882 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:38:37.040 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:38:37.040 [info] 
+2024-08-02 09:39:39.349 [info] Running checks...
+2024-08-02 09:39:39.349 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:39:39.514 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:39:39.514 [info] 
+2024-08-02 09:40:06.027 [info] Running checks...
+2024-08-02 09:40:06.027 [info] Starting linting the current package at /home/peter/Developer/go/day_1/packages/find
+2024-08-02 09:40:06.184 [info] /home/peter/Developer/go/day_1/packages/find>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:40:06.184 [info] 
+2024-08-02 09:42:33.636 [info] Try to start language server - activation (enabled: true)
+2024-08-02 09:42:33.736 [info] Running language server gopls(v0.16.1/go1.22.5)
+2024-08-02 09:43:47.535 [info] Running checks...
+2024-08-02 09:43:47.535 [info] Starting linting the current package at /home/peter/Developer/go/day_1/internal/cli
+2024-08-02 09:43:47.706 [info] /home/peter/Developer/go/day_1/internal/cli>Finished running tool: /home/peter/go/bin/staticcheck
+2024-08-02 09:43:47.706 [info] 

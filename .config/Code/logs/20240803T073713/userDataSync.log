@@ -1,0 +1,38 @@
+2024-08-03 07:37:15.100 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-08-03 07:37:15.100 [info] Auto Sync is enabled.
+2024-08-03 07:37:15.100 [info] Auto Sync: Suspended until auth token is available.
+2024-08-03 07:37:15.333 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/extensions
+2024-08-03 07:37:15.403 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/globalState
+2024-08-03 07:37:15.513 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/keybindings
+2024-08-03 07:37:15.515 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/profiles
+2024-08-03 07:37:15.517 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/settings
+2024-08-03 07:37:15.519 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/snippets
+2024-08-03 07:37:15.523 [info] Deleting non existing profile from backup /home/peter/.config/Code/User/sync/tasks
+2024-08-03 07:37:17.639 [info] Auto Sync: Triggered by Interval
+2024-08-03 07:37:17.640 [info] Sync started.
+2024-08-03 07:37:18.318 [info] Settings: Last sync resource does not exist locally.
+2024-08-03 07:37:18.496 [info] Settings: No changes found during synchronizing settings.
+2024-08-03 07:37:18.499 [info] Keybindings: Last sync resource does not exist locally.
+2024-08-03 07:37:18.629 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-08-03 07:37:18.631 [info] Snippets: Last sync resource does not exist locally.
+2024-08-03 07:37:18.762 [info] Snippets: No changes found during synchronizing snippets.
+2024-08-03 07:37:18.764 [info] Tasks: Last sync resource does not exist locally.
+2024-08-03 07:37:18.851 [info] Tasks: No changes found during synchronizing tasks.
+2024-08-03 07:37:18.853 [info] GlobalState: Last sync resource does not exist locally.
+2024-08-03 07:37:20.129 [info] GlobalState: Updated remote ui state. Updated: commandPalette.mru.cache,commandPalette.mru.counter.
+2024-08-03 07:37:20.133 [info] GlobalState: Updated last synchronized ui state
+2024-08-03 07:37:20.135 [info] Extensions: Last sync resource does not exist locally.
+2024-08-03 07:37:20.341 [info] Extensions: No changes found during synchronizing extensions.
+2024-08-03 07:37:20.344 [info] Profiles: Last sync resource does not exist locally.
+2024-08-03 07:37:20.521 [info] Profiles: No changes found during synchronizing profiles.
+2024-08-03 07:37:20.530 [info] Sync done. Took 2891ms
+2024-08-03 07:38:25.369 [info] Auto Sync: Triggered by Activity
+2024-08-03 07:38:25.370 [info] Sync started.
+2024-08-03 07:38:25.457 [info] Settings: No changes found during synchronizing settings.
+2024-08-03 07:38:25.465 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-08-03 07:38:25.469 [info] Snippets: No changes found during synchronizing snippets.
+2024-08-03 07:38:25.472 [info] Tasks: No changes found during synchronizing tasks.
+2024-08-03 07:38:25.476 [info] GlobalState: No changes found during synchronizing ui state.
+2024-08-03 07:38:25.540 [info] Extensions: No changes found during synchronizing extensions.
+2024-08-03 07:38:25.541 [info] Profiles: No changes found during synchronizing profiles.
+2024-08-03 07:38:25.543 [info] Sync done. Took 173ms

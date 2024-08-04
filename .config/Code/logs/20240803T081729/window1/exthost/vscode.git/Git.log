@@ -1,0 +1,35 @@
+2024-08-03 08:17:33.891 [info] Log level: Info
+2024-08-03 08:17:33.891 [info] Validating found git in: "git"
+2024-08-03 08:17:33.891 [info] Using git "2.45.2" from "git"
+2024-08-03 08:17:33.891 [info] > git rev-parse --show-toplevel [15ms]
+2024-08-03 08:17:33.891 [info] > git rev-parse --git-dir --git-common-dir [29ms]
+2024-08-03 08:17:33.891 [info] Open repository: /home/peter/Developer/nextjs/day_2
+2024-08-03 08:17:33.903 [info] > git config --get commit.template [31ms]
+2024-08-03 08:17:33.910 [info] > git rev-parse --show-toplevel [22ms]
+2024-08-03 08:17:33.924 [info] No remotes found in the git config file.
+2024-08-03 08:17:33.962 [info] > git rev-parse --show-toplevel [16ms]
+2024-08-03 08:17:33.962 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2024-08-03 08:17:34.093 [info] > git status -z -uall [97ms]
+2024-08-03 08:17:34.178 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [50ms]
+2024-08-03 08:17:34.225 [info] > git rev-parse --show-toplevel [154ms]
+2024-08-03 08:17:34.300 [info] > git config --local branch.main.vscode-merge-base [75ms]
+2024-08-03 08:17:34.303 [warning] git config failed: Failed to execute git
+2024-08-03 08:17:35.342 [info] > git reflog main --grep-reflog=branch: Created from *. [1019ms]
+2024-08-03 08:17:35.360 [info] > git rev-parse --show-toplevel [1071ms]
+2024-08-03 08:17:35.362 [info] > git config --get commit.template [1098ms]
+2024-08-03 08:17:35.561 [info] No remotes found in the git config file.
+2024-08-03 08:17:35.563 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [204ms]
+2024-08-03 08:17:35.563 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-03 08:17:35.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [81ms]
+2024-08-03 08:17:35.777 [info] > git status -z -uall [115ms]
+2024-08-03 08:17:35.777 [info] > git show --textconv :src/app/page.tsx [38ms]
+2024-08-03 08:17:35.895 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [100ms]
+2024-08-03 08:17:35.911 [info] > git ls-files --stage -- /home/peter/Developer/nextjs/day_2/src/app/page.tsx [150ms]
+2024-08-03 08:17:36.076 [info] > git check-ignore -v -z --stdin [106ms]
+2024-08-03 08:17:36.081 [info] > git cat-file -s 2acfd440d7c9eb66792802a8660bf245a4f5a3ab [152ms]
+2024-08-03 08:17:36.087 [info] > git config --local branch.main.vscode-merge-base [175ms]
+2024-08-03 08:17:36.088 [warning] git config failed: Failed to execute git
+2024-08-03 08:17:36.177 [info] > git reflog main --grep-reflog=branch: Created from *. [70ms]
+2024-08-03 08:17:36.234 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [30ms]
+2024-08-03 08:17:36.235 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-03 08:17:52.037 [info] > git check-ignore -v -z --stdin [5ms]

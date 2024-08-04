@@ -1,0 +1,49 @@
+2024-08-03 05:59:51.800 [info] Log level: Info
+2024-08-03 05:59:51.800 [info] Validating found git in: "git"
+2024-08-03 05:59:51.801 [info] Using git "2.45.2" from "git"
+2024-08-03 05:59:51.801 [info] > git rev-parse --show-toplevel [37ms]
+2024-08-03 05:59:51.801 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2024-08-03 05:59:51.801 [info] Open repository: /home/peter/Developer/nextjs/todo-service
+2024-08-03 05:59:51.801 [info] > git config --get commit.template [10ms]
+2024-08-03 05:59:51.801 [info] > git rev-parse --show-toplevel [4ms]
+2024-08-03 05:59:51.801 [info] No remotes found in the git config file.
+2024-08-03 05:59:51.801 [info] > git rev-parse --show-toplevel [6ms]
+2024-08-03 05:59:51.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [24ms]
+2024-08-03 05:59:51.801 [info] > git status -z -uall [26ms]
+2024-08-03 05:59:51.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [62ms]
+2024-08-03 05:59:51.801 [info] > git rev-parse --show-toplevel [114ms]
+2024-08-03 05:59:51.801 [info] > git config --local branch.dev.vscode-merge-base [54ms]
+2024-08-03 05:59:51.801 [warning] git config failed: Failed to execute git
+2024-08-03 05:59:51.801 [info] > git config --get commit.template [87ms]
+2024-08-03 05:59:51.801 [info] > git rev-parse --show-toplevel [43ms]
+2024-08-03 05:59:51.801 [info] No remotes found in the git config file.
+2024-08-03 05:59:51.801 [info] > git reflog dev --grep-reflog=branch: Created from *. [1426ms]
+2024-08-03 05:59:51.801 [info] > git reflog HEAD --grep-reflog=checkout: moving from .* to dev [195ms]
+2024-08-03 05:59:51.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [232ms]
+2024-08-03 05:59:51.801 [info] > git status -z -uall [28ms]
+2024-08-03 05:59:51.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [54ms]
+2024-08-03 05:59:51.801 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [31ms]
+2024-08-03 05:59:51.801 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-03 05:59:51.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [51ms]
+2024-08-03 05:59:51.806 [info] > git show --textconv :src/api/client/api.client.ts [23ms]
+2024-08-03 05:59:51.811 [info] > git config --local branch.dev.vscode-merge-base [158ms]
+2024-08-03 05:59:51.811 [warning] git config failed: Failed to execute git
+2024-08-03 05:59:51.909 [info] > git reflog dev --grep-reflog=branch: Created from *. [91ms]
+2024-08-03 05:59:51.926 [info] > git ls-files --stage -- /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts [127ms]
+2024-08-03 05:59:52.073 [info] > git check-ignore -v -z --stdin [122ms]
+2024-08-03 05:59:52.076 [info] > git cat-file -s d05a913764cf67232da324fe6deac956807f515a [142ms]
+2024-08-03 05:59:52.077 [info] > git reflog HEAD --grep-reflog=checkout: moving from .* to dev [151ms]
+2024-08-03 05:59:52.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-08-03 05:59:52.123 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [8ms]
+2024-08-03 05:59:52.123 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-03 05:59:58.588 [info] > git check-ignore -v -z --stdin [2ms]
+2024-08-03 06:00:00.707 [info] > git check-ignore -v -z --stdin [5ms]
+2024-08-03 06:00:13.970 [info] > git show --textconv :src/api/client/api.client.ts [7ms]
+2024-08-03 06:00:14.001 [info] > git ls-files --stage -- /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts [32ms]
+2024-08-03 06:00:14.046 [info] > git cat-file -s d05a913764cf67232da324fe6deac956807f515a [38ms]
+2024-08-03 06:05:28.398 [info] > git show --textconv :src/api/client/api.client.ts [40ms]
+2024-08-03 06:05:28.398 [info] > git ls-files --stage -- /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts [7ms]
+2024-08-03 06:05:28.406 [info] > git cat-file -s d05a913764cf67232da324fe6deac956807f515a [3ms]
+2024-08-03 06:07:17.308 [info] > git show --textconv :src/api/client/api.client.ts [11ms]
+2024-08-03 06:07:17.313 [info] > git ls-files --stage -- /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts [6ms]
+2024-08-03 06:07:17.342 [info] > git cat-file -s d05a913764cf67232da324fe6deac956807f515a [19ms]

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+:root {
+    --neutral : #737373;
+    --background : #6b7280;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: var(--background);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 400px;
+    height: 450px;
+    background: white;
+
+    padding: .8rem;
+    border-radius: .8rem;
+}

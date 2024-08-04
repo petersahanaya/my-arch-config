@@ -1,0 +1,21 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Info  - 9:49:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}
+[Info  - 9:49:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/cmd/main.go',
+  normalPath: '/home/peter/Developer/go/day_1/cmd/main.go'
+}
+[Info  - 9:49:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}

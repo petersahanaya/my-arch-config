@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "system-ui";
+}
+
+:root {
+  --bg: #000000;
+  --box: #121212;
+  --text: #757575;
+  --box-2: #242424;
+}
+
+body {
+  background: var(--bg);
+  width: 100vw;
+  height: 100vh;
+  color: white;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+}
+
+.container h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.container form {
+  width: 40%;
+  height: 100vh;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  padding: .8rem;
+  background: var(--box);
+  display: flex;
+  flex-direction: column;
+  gap: .7rem;
+}
+
+.container form label {
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+}
+
+.container form label p {
+  font-weight: 600;
+  font-size: .8rem;
+}
+
+.container form input {
+  padding: .6rem;
+  background: none;
+  border: 1px solid var(--text);
+  border-radius: .4rem;
+  color: white;
+  font-size: 1rem;
+}
+
+form input:focus {
+  outline: 2px solid white;
+}
+
+.container form button {
+  padding: .7rem;
+  border: none;
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-top: .8rem;
+  border-radius: 2rem;
+  transition: opacity 300ms cubic-bezier(0.19, 1, 0.22, 1);
+  cursor: pointer;
+}
+
+form button:hover {
+  opacity: .8;
+}
+
+/* OUTPUT */
+.container .output {
+  width: 70%;
+  height: 100vh;
+  background: var(--box);
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.container .output header {
+  width: 100%;
+  padding: .9rem;
+  background: white;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: .8rem;
+  gap: .4rem;
+}
+
+.output header h3 {
+  width: 130px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+}
+
+.output .list {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 1rem;
+  font-weight: 300;
+  background: var(--box-2);
+  padding: .7rem;
+}
+
+.list p {
+  font-size: .9rem;
+  padding: .4rem;
+  width: 100%;
+  text-align: center;
+}
+
+.grades div {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.grades .grade,
+.nilai-kog,
+.nilai-ket {
+  border-top: 1px solid #383838;
+  width: 100%;
+  background: var(--box-2);
+  padding: 1rem;
+  display: flex;
+  gap: 2rem;
+}
+
+.grades h2:first-child {
+  width: 160px;
+  font-size: 1rem;
+}
+
+
+.loader {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

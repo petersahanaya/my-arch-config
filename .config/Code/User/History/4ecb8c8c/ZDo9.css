@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+:root {
+    --neutral : #737373;
+    --background : #6b7280;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: var(--background);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 400px;
+    height: 450px;
+    background: white;
+
+    padding: .8rem;
+    border-radius: .8rem;
+}
+
+.container header {
+    font-size: .9rem;
+    text-transform: uppercase;
+}
+
+.container hr {
+    border-color: #f7f7f7;
+    margin-top: .8rem;
+    margin-bottom: .8rem;
+}
+
+.container header h1 {
+    font-weight: 400;
+    color: var(--neutral);
+}
+
+.container form {
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+}
+
+.container form label {
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+}
+
+.container form label p {
+    font-weight: 700;
+    font-size: .9rem;
+    text-transform: uppercase;
+    color: #6b7280;
+}
+
+.container form label input {
+    padding: .5rem;
+    border-radius: .6rem;
+    border: 1px solid #cfcfcf;
+}
+
+.container form option {
+    padding: .7rem;
+}
+
+.container select {
+    padding: .6rem;
+}
+
+.container form button {
+    padding: .6rem;
+    font-size: 1rem;
+    border-radius: .6rem;
+    border: none;
+    background: black;
+    color: white;
+    font-weight: 700;
+
+    transition: opacity 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    cursor: pointer;
+}
+
+.container form button:hover {
+    opacity : .8;
+}

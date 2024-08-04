@@ -1,0 +1,78 @@
+["INFO" - 7:37:21 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:37:21 AM] Extension Version: 10.4.0.
+["INFO" - 7:37:30 AM] Using config file at /home/peter/Developer/nextjs/day_2/.prettierrc
+["INFO" - 7:37:49 AM] Using config file at /home/peter/Developer/nextjs/day_2/.prettierrc
+["INFO" - 7:38:31 AM] Using config file at /home/peter/Developer/nextjs/day_2/.prettierrc.json
+["INFO" - 7:38:36 AM] Using config file at /home/peter/Developer/nextjs/day_2/.prettierrc.json
+["INFO" - 7:38:43 AM] Formatting file:///home/peter/Developer/nextjs/day_2/src/app/page.tsx
+["INFO" - 7:38:43 AM] Using config file at /home/peter/Developer/nextjs/day_2/.prettierrc.json
+["INFO" - 7:38:43 AM] PrettierInstance:
+{
+  "modulePath": "/home/peter/Developer/nextjs/day_2/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 2,
+  "version": "3.3.3"
+}
+["INFO" - 7:38:43 AM] Using ignore file (if present) at /home/peter/Developer/nextjs/day_2/.prettierignore
+["INFO" - 7:38:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:38:43 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 7:38:43 AM] Prettier Options:
+{
+  "filepath": "/home/peter/Developer/nextjs/day_2/src/app/page.tsx",
+  "parser": "typescript",
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "avoid",
+  "plugins": [
+    "/home/peter/Developer/nextjs/day_2/node_modules/.pnpm/prettier-plugin-tailwindcss@0.6.5_prettier@3.3.3/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ],
+  "tailwindPreserveWhitespace": true
+}
+["INFO" - 7:38:44 AM] Formatting completed in 343ms.
+["INFO" - 7:38:50 AM] Formatting file:///home/peter/Developer/nextjs/day_2/src/app/page.tsx
+["INFO" - 7:38:50 AM] Using config file at /home/peter/Developer/nextjs/day_2/.prettierrc.json
+["INFO" - 7:38:50 AM] PrettierInstance:
+{
+  "modulePath": "/home/peter/Developer/nextjs/day_2/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 6,
+  "version": "3.3.3"
+}
+["INFO" - 7:38:50 AM] Using ignore file (if present) at /home/peter/Developer/nextjs/day_2/.prettierignore
+["INFO" - 7:38:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:38:50 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 7:38:50 AM] Prettier Options:
+{
+  "filepath": "/home/peter/Developer/nextjs/day_2/src/app/page.tsx",
+  "parser": "typescript",
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "avoid",
+  "plugins": [
+    "/home/peter/Developer/nextjs/day_2/node_modules/.pnpm/prettier-plugin-tailwindcss@0.6.5_prettier@3.3.3/node_modules/prettier-plugin-tailwindcss/dist/index.mjs"
+  ],
+  "tailwindPreserveWhitespace": true
+}
+["INFO" - 7:38:50 AM] Formatting completed in 14ms.

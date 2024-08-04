@@ -1,0 +1,17 @@
+[Info  - 9:05:50 AM] Initialising intelephense 1.10.4
+[Info  - 9:05:50 AM] Initialised in 33 ms
+[Info  - 9:05:50 AM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 9:05:50 AM] Searching file:///home/peter/.vscode/extensions/bmewburn.vscode-intelephense-client-1.10.4/node_modules/intelephense/lib/stub for files to index.
+[Info  - 9:05:51 AM] Searching file:///home/peter/Documents/agus for files to index.
+[Info  - 9:05:51 AM] Indexing started.
+[Info  - 9:05:54 AM] Indexing ended. 143 files indexed in 3s.
+[Info  - 9:05:54 AM] Writing state to /home/peter/.config/Code/User/workspaceStorage/af5040b9bd15eb77a7511340f04a6391/bmewburn.vscode-intelephense-client/16f4637b.
+[Info  - 9:05:55 AM] Wrote state in 0.3s.
+[Info  - 9:21:39 AM] Indexing started.
+[Info  - 9:21:39 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:21:44 AM] Indexing started.
+[Info  - 9:21:44 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:43:38 AM] Indexing started.
+[Info  - 9:43:38 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:43:48 AM] Indexing started.
+[Info  - 9:43:48 AM] Indexing ended. 1 files indexed in 0s.

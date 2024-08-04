@@ -1,0 +1,118 @@
+2024-08-02 09:12:24.751 [error] Remapping of 'undefined' should be a string array.
+2024-08-02 09:12:25.022 [info] Executing :w
+2024-08-02 09:12:38.172 [info] Executing :w
+2024-08-02 09:12:39.361 [info] Executing :w
+2024-08-02 09:12:55.084 [info] Executing :w
+2024-08-02 09:13:45.817 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go
+2024-08-02 09:13:59.335 [info] Executing :w
+2024-08-02 09:14:25.959 [info] Executing :w
+2024-08-02 09:14:39.189 [info] Executing :w
+2024-08-02 09:14:51.837 [info] /usr/lib/go/src/time/time.go closed
+2024-08-02 09:15:18.456 [info] Executing :w
+2024-08-02 09:15:58.640 [info] Executing :w
+2024-08-02 09:16:00.695 [info] Executing :w
+2024-08-02 09:16:01.405 [info] Executing :w
+2024-08-02 09:16:06.424 [info] /usr/lib/go/src/time/time.go closed
+2024-08-02 09:16:29.390 [info] Executing :w
+2024-08-02 09:17:18.823 [info] Executing :w
+2024-08-02 09:17:44.227 [info] Executing :w
+2024-08-02 09:18:28.259 [info] Executing :w
+2024-08-02 09:19:04.864 [info] Executing :w
+2024-08-02 09:19:22.698 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/input/input.go
+2024-08-02 09:19:23.731 [info] Executing :w
+2024-08-02 09:19:29.435 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go
+2024-08-02 09:19:37.025 [info] Executing :w
+2024-08-02 09:20:12.607 [info] Executing :w
+2024-08-02 09:20:22.496 [info] Executing :w
+2024-08-02 09:20:25.011 [info] Executing :w
+2024-08-02 09:20:40.821 [info] Executing :w
+2024-08-02 09:20:43.401 [info] Executing :w
+2024-08-02 09:20:44.553 [info] Executing :w
+2024-08-02 09:20:55.949 [info] Executing :w
+2024-08-02 09:20:58.169 [info] Executing :w
+2024-08-02 09:20:59.600 [info] Executing :w
+2024-08-02 09:21:37.559 [info] Executing :w
+2024-08-02 09:21:48.805 [info] Executing :w
+2024-08-02 09:21:52.566 [info] Executing :w
+2024-08-02 09:22:25.455 [info] Executing :w
+2024-08-02 09:22:51.784 [info] Executing :
+2024-08-02 09:22:52.443 [info] Executing :w
+2024-08-02 09:23:00.059 [info] Executing :w
+2024-08-02 09:23:12.872 [info] Executing :w
+2024-08-02 09:23:16.109 [info] Executing :w
+2024-08-02 09:23:56.917 [info] Executing :w
+2024-08-02 09:23:58.490 [info] Executing :w
+2024-08-02 09:24:40.795 [info] Executing :w
+2024-08-02 09:24:57.448 [info] Executing :w
+2024-08-02 09:25:22.227 [info] Executing :w
+2024-08-02 09:25:27.839 [info] Executing :w
+2024-08-02 09:25:34.958 [info] Executing :w
+2024-08-02 09:25:38.610 [info] /usr/lib/go/src/time/time.go closed
+2024-08-02 09:26:09.924 [info] Executing :w
+2024-08-02 09:26:17.263 [info] Executing :w
+2024-08-02 09:26:22.827 [info] Executing :w
+2024-08-02 09:27:41.431 [info] Executing :w
+2024-08-02 09:27:54.026 [info] Executing :w
+2024-08-02 09:28:27.535 [info] Executing :w
+2024-08-02 09:28:53.233 [info] Executing :w
+2024-08-02 09:29:00.024 [info] Executing :w
+2024-08-02 09:29:14.042 [info] Executing :w
+2024-08-02 09:29:55.762 [info] Executing :w
+2024-08-02 09:31:07.542 [info] Executing :w
+2024-08-02 09:31:30.481 [info] Active editor: file:///home/peter/Developer/go/day_1/packages/find/find.go
+2024-08-02 09:32:28.199 [info] Executing :w
+2024-08-02 09:32:35.460 [info] Executing :w
+2024-08-02 09:32:49.469 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go
+2024-08-02 09:32:57.907 [info] Executing :w
+2024-08-02 09:32:59.472 [info] Executing :w
+2024-08-02 09:33:03.578 [info] Executing :w
+2024-08-02 09:33:04.448 [info] Executing :w
+2024-08-02 09:33:05.102 [info] Executing :w
+2024-08-02 09:33:07.966 [info] Active editor: file:///home/peter/Developer/go/day_1/packages/find/find.go
+2024-08-02 09:33:14.619 [info] Executing :w
+2024-08-02 09:33:30.669 [info] Executing :w
+2024-08-02 09:33:33.227 [warning] invalid cursor position. [[2, 23] | [2, 23]].
+2024-08-02 09:33:33.227 [warning] invalid cursor position. [[2, 23] | [2, 23]].
+2024-08-02 09:33:37.766 [info] Executing :w
+2024-08-02 09:35:10.476 [info] Executing :w
+2024-08-02 09:35:17.908 [info] Executing :w
+2024-08-02 09:35:21.236 [info] Executing :w
+2024-08-02 09:35:31.878 [info] Executing :w
+2024-08-02 09:35:41.522 [info] Executing :w
+2024-08-02 09:35:55.071 [info] /usr/lib/go/src/builtin/builtin.go closed
+2024-08-02 09:36:16.829 [info] Executing :w
+2024-08-02 09:36:19.077 [info] Executing :w
+2024-08-02 09:36:24.844 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/input/input.go
+2024-08-02 09:36:27.464 [info] /home/peter/Developer/go/day_1/internal/input/input.go closed
+2024-08-02 09:36:27.476 [info] Active editor: file:///home/peter/Developer/go/day_1/packages/find/find.go
+2024-08-02 09:36:28.747 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/input/input.go
+2024-08-02 09:36:30.060 [info] /home/peter/Developer/go/day_1/internal/input/input.go closed
+2024-08-02 09:36:30.069 [info] Active editor: file:///home/peter/Developer/go/day_1/packages/find/find.go
+2024-08-02 09:36:32.995 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go
+2024-08-02 09:38:36.807 [info] Executing :w
+2024-08-02 09:38:39.607 [info] /usr/lib/go/src/strings/strings.go closed
+2024-08-02 09:39:11.200 [info] Executing :w
+2024-08-02 09:39:21.998 [info] Active editor: file:///home/peter/Developer/go/day_1/packages/find/find.go
+2024-08-02 09:39:39.263 [info] Executing :w
+2024-08-02 09:39:39.794 [info] Executing :w
+2024-08-02 09:40:05.977 [info] Executing :w
+2024-08-02 09:40:06.654 [info] Executing :w
+2024-08-02 09:40:10.673 [info] Executing :w
+2024-08-02 09:40:17.372 [info] Active editor: file:///home/peter/Developer/go/day_1/go.mod
+2024-08-02 09:40:21.385 [info] /home/peter/Developer/go/day_1/go.mod closed
+2024-08-02 09:40:21.391 [info] Active editor: file:///home/peter/Developer/go/day_1/packages/find/find.go
+2024-08-02 09:41:28.903 [info] Executing :w
+2024-08-02 09:41:29.673 [info] Executing :w
+2024-08-02 09:41:36.002 [info] Executing :w
+2024-08-02 09:42:04.878 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go
+2024-08-02 09:42:08.080 [info] Executing :w
+2024-08-02 09:42:27.748 [info] Executing :w
+2024-08-02 09:42:41.146 [error] Remapping of 'undefined' should be a string array.
+2024-08-02 09:42:43.724 [info] Executing :w
+2024-08-02 09:43:39.410 [info] Executing :W
+2024-08-02 09:43:47.351 [info] Executing :w
+2024-08-02 09:47:56.019 [info] Executing :w
+2024-08-02 09:47:59.443 [info] Executing :W
+2024-08-02 09:48:01.454 [info] Active editor: file:///home/peter/Developer/go/day_1/cmd/main.go
+2024-08-02 09:48:02.296 [info] Executing :w
+2024-08-02 09:48:05.021 [info] Executing :w

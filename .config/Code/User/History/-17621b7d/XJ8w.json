@@ -1,0 +1,48 @@
+{
+  "code-runner.runInTerminal": true,
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "700",
+  "json.schemas": [],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vim.insertModeKeyBindingsNonRecursive": [
+    {
+      "after": [
+        ":",
+        "w",
+        "<Enter>"
+      ]
+    }
+  ],
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "openapi.approvedHostnames": [],
+  "redhat.telemetry.enabled": true,
+  "editor.codeLensFontFamily": " ",
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "window.menuBarVisibility": "toggle",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.minimap.enabled": false,
+  "workbench.editor.showTabs": "none",
+  "files.autoSave": "onWindowChange",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontalScrollbarSize": 5,
+  "editor.scrollbar.verticalScrollbarSize": 5,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "editor.inlayHints.enabled": "off",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.colorTheme": "1f9697bd-aec1-49ff-bdb4-c37ef8ace62b",
+  "workbench.statusBar.visible": false
+}

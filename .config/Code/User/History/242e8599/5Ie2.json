@@ -1,0 +1,49 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "meta+e",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+e",
+        "command": "-workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "revealInExplorer",
+        "when": "editorTextFocus && !sideBarFocus"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "workbench.action.toggleSidebarVisibility",
+        "when": "editorIsOpen && sideBarFocus"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "-workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "-workbench.action.quit"
+    },
+    {
+        "key": "a",
+        "command": "explorer.newFile",
+        "when": "sideBarFocus && !inputFocus"
+    },
+    {
+        "key": "shift+a",
+        "command": "explorer.newFolder",
+        "when": "sideBarFocus && !inputFocus"
+    },
+    {
+        "key": "delete",
+        "command": "deleteFile",
+        "when": "sideBarFocus && !inputFocus"
+    },
+    {
+        "key": "delete",
+        "command": "-deleteFile",
+        "when": "filesExplorerFocus && foldersViewVisible && !explorerResourceMoveableToTrash && !explorerResourceReadonly && !inputFocus"
+    }
+]

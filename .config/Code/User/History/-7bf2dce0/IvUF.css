@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    input[type="checkbox"] {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        border-radius: 1rem;
+        cursor: pointer;
+        background: #000000;
+    }
+
+    input[type="checkbox"]:checked {
+    }
+}

@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'CaskaydiaCove Nerd Font Mono';
+}
+
+:root {
+    --stone : #5c5c5c;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #9e9e9e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home {
+    width: 400px;
+    height: 300px;
+    background: white;
+    border-radius: 1rem;
+
+    padding: .6rem;
+}
+
+.home header {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: .4rem;
+}
+
+.home header h1 {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--stone);
+}
+
+.home header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    font-size: .9rem;
+    color: var(--stone);
+}

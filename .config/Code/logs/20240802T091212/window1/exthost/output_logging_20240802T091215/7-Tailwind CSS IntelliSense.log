@@ -1,0 +1,69 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Info  - 9:13:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}
+[Info  - 9:19:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/input/input.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/input/input.go'
+}
+[Info  - 9:19:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}
+[Info  - 9:31:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/packages/find/find.go',
+  normalPath: '/home/peter/Developer/go/day_1/packages/find/find.go'
+}
+[Info  - 9:32:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}
+[Info  - 9:33:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/packages/find/find.go',
+  normalPath: '/home/peter/Developer/go/day_1/packages/find/find.go'
+}
+[Info  - 9:36:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/input/input.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/input/input.go'
+}
+[Info  - 9:36:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/packages/find/find.go',
+  normalPath: '/home/peter/Developer/go/day_1/packages/find/find.go'
+}
+[Info  - 9:36:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/input/input.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/input/input.go'
+}
+[Info  - 9:36:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/packages/find/find.go',
+  normalPath: '/home/peter/Developer/go/day_1/packages/find/find.go'
+}
+[Info  - 9:36:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}
+[Info  - 9:39:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/packages/find/find.go',
+  normalPath: '/home/peter/Developer/go/day_1/packages/find/find.go'
+}
+[Info  - 9:40:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/go.mod',
+  normalPath: '/home/peter/Developer/go/day_1/go.mod'
+}
+[Info  - 9:40:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/packages/find/find.go',
+  normalPath: '/home/peter/Developer/go/day_1/packages/find/find.go'
+}
+[Info  - 9:42:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go',
+  normalPath: '/home/peter/Developer/go/day_1/internal/cli/cli.go'
+}

@@ -1,0 +1,12 @@
+2024-08-02 09:48:31.363 [error] Remapping of 'undefined' should be a string array.
+2024-08-02 09:48:44.921 [info] extension-output-ms-vscode.makefile-tools-#1-Makefile tools closed
+2024-08-02 09:48:59.389 [info] Executing :w
+2024-08-02 09:49:01.858 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go
+2024-08-02 09:49:11.267 [info] Active editor: file:///home/peter/Developer/go/day_1/cmd/main.go
+2024-08-02 09:49:16.108 [info] Executing :w
+2024-08-02 09:49:16.730 [info] Executing :w
+2024-08-02 09:49:17.423 [info] Executing :w
+2024-08-02 09:49:23.742 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-02 09:49:23.829 [info] Configuration changed
+2024-08-02 09:49:23.832 [error] Remapping of 'undefined' should be a string array.
+2024-08-02 09:49:28.846 [info] Active editor: file:///home/peter/Developer/go/day_1/internal/cli/cli.go

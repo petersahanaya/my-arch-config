@@ -1,0 +1,4254 @@
+Locating server…
+Booting server...
+Checking if /home/peter/Documents/agus/index.css may be Tailwind-related…
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Info  - 9:05:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Global] Initialized 0 projects
+[Info  - 9:05:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:05:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:05:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:05:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:05:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:05:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:06:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:07:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:07:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:08:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:08:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:08:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:09:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:10:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:10:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:11:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:12:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:12:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:12:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:12:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:12:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:12:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:12:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:12:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:13:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:13:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:13:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:14:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:15:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:16:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:17:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:17:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:17:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:17:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:17:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:17:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:18:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:19:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:20:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:21:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:21:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:21:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:21:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp2[1].php'
+}
+[Info  - 9:21:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:21:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:21:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:21:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp[1].php',
+  normalPath: '/home/peter/Documents/agus/uassphp[1].php'
+}
+[Info  - 9:21:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp.php',
+  normalPath: '/home/peter/Documents/agus/uassphp.php'
+}
+[Info  - 9:21:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp.php',
+  normalPath: '/home/peter/Documents/agus/uassphp.php'
+}
+[Info  - 9:21:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp.php',
+  normalPath: '/home/peter/Documents/agus/uassphp.php'
+}
+[Info  - 9:22:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:22:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:22:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:22:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:22:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:22:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:23:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:23:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:24:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:24:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:25:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:26:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:27:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:27:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:28:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:29:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:30:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:30:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:30:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:30:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:30:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:30:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:30:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:30:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:31:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:31:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:31:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:31:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:31:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:32:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:32:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:33:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:33:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:48 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:34:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:23 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:32 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:33 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:34 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:35:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:36:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:36:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:36:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:36:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:36:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:07 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:21 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:22 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:35 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:36 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:37:49 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:09 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:25 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:31 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:37 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:38:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:15 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:39:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:52 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:53 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:39:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:04 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:05 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:13 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:14 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:40:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:40:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:03 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:06 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:18 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:41:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:41:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:41:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:41:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:41:45 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:41:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:41:46 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp2.php',
+  normalPath: '/home/peter/Documents/agus/uassphp2.php'
+}
+[Info  - 9:42:16 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:20 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:24 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:26 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:27 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:28 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:29 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:39 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:40 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:41 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:42 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:50 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:51 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:56 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:57 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:58 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:42:59 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:01 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:02 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:10 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:11 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:17 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:19 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:43:30 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uassphp.php',
+  normalPath: '/home/peter/Documents/agus/uassphp.php'
+}
+[Info  - 9:43:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:38 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-2.php',
+  normalPath: '/home/peter/Documents/agus/uas-2.php'
+}
+[Info  - 9:43:47 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-2.php',
+  normalPath: '/home/peter/Documents/agus/uas-2.php'
+}
+[Info  - 9:43:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:54 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:43:55 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:44:00 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-2.php',
+  normalPath: '/home/peter/Documents/agus/uas-2.php'
+}
+[Info  - 9:44:08 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-1.php',
+  normalPath: '/home/peter/Documents/agus/uas-1.php'
+}
+[Info  - 9:44:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/uas-2.php',
+  normalPath: '/home/peter/Documents/agus/uas-2.php'
+}
+[Info  - 9:44:12 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:44:43 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}
+[Info  - 9:44:44 AM] [GLOBAL] No matching project for document {
+  fsPath: '/home/peter/Documents/agus/index.css',
+  normalPath: '/home/peter/Documents/agus/index.css'
+}

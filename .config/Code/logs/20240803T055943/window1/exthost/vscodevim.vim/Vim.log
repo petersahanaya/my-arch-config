@@ -1,0 +1,30 @@
+2024-08-03 05:59:55.723 [error] Remapping of 'undefined' should be a string array.
+2024-08-03 06:00:11.762 [info] Active editor: vscode-userdata:/home/peter/.config/Code/User/settings.json
+2024-08-03 06:00:11.798 [info] /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts.git closed
+2024-08-03 06:00:13.689 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:00:13.705 [info] Active editor: file:///home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts
+2024-08-03 06:00:21.865 [info] /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts.git closed
+2024-08-03 06:03:12.775 [info] /settings/user closed
+2024-08-03 06:03:12.776 [info] /settings/resourceLanguage closed
+2024-08-03 06:03:12.776 [info] /ignoredSettings closed
+2024-08-03 06:03:12.777 [info] /launch closed
+2024-08-03 06:03:12.778 [info] /token-styling closed
+2024-08-03 06:03:12.778 [info] /textmate-colors closed
+2024-08-03 06:03:12.779 [info] /workbench-colors closed
+2024-08-03 06:05:28.084 [info] Active editor: file:///home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts
+2024-08-03 06:05:51.532 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:05:51.601 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:06:08.850 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:06:58.637 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:06:58.691 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:07:00.144 [info] Active editor: userdataprofileexport:/home/peter/.config/Code/User/settings.json
+2024-08-03 06:07:00.161 [info] /home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts.git closed
+2024-08-03 06:07:17.048 [info] /home/peter/.config/Code/User/settings.json closed
+2024-08-03 06:07:17.065 [info] Active editor: file:///home/peter/Developer/nextjs/todo-service/src/api/client/api.client.ts
+2024-08-03 06:10:00.750 [info] /settings/user closed
+2024-08-03 06:10:00.751 [info] /settings/resourceLanguage closed
+2024-08-03 06:10:00.751 [info] /ignoredSettings closed
+2024-08-03 06:10:00.752 [info] /launch closed
+2024-08-03 06:10:00.752 [info] /token-styling closed
+2024-08-03 06:10:00.753 [info] /textmate-colors closed
+2024-08-03 06:10:00.753 [info] /workbench-colors closed

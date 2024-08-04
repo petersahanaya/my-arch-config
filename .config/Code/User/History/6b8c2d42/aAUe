@@ -1,0 +1,14 @@
+
+    <?php if ($hasTodos) : ?>
+        <ul>
+            <?php foreach ($todos as $todo) : ?>
+                <li>
+                    <p> <?= $todo->title ?> </p>
+
+                    <span> <?= $todo->status ?> </span>
+                </li>
+            <?php endforeach ?>
+        </ul>
+    <?php else : ?>
+        <p>No todos available!</p>
+    <?php endif; ?>

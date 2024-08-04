@@ -1,0 +1,181 @@
+2024-08-03 09:05:46.207 [info] Extension host with pid 378281 started
+2024-08-03 09:05:46.207 [info] Skipping acquiring lock for /home/peter/.config/Code/User/workspaceStorage/af5040b9bd15eb77a7511340f04a6391.
+2024-08-03 09:05:46.727 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-03 09:05:46.732 [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: true, activationEvent: '*', root cause: 42Crunch.vscode-openapi
+2024-08-03 09:05:46.900 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-08-03 09:05:46.942 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-08-03 09:05:47.119 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-03 09:05:47.197 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-03 09:05:47.226 [info] ExtensionService#_doActivateExtension 42Crunch.vscode-openapi, startup: true, activationEvent: '*'
+2024-08-03 09:05:48.253 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-08-03 09:05:48.256 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-08-03 09:05:48.572 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-08-03 09:05:48.598 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-08-03 09:05:48.938 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-08-03 09:05:48.959 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2024-08-03 09:05:48.993 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-03 09:05:50.093 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-08-03 09:05:51.181 [info] Eager extensions activated
+2024-08-03 09:05:51.185 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:51.192 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:51.211 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:51.224 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:51.260 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:51.835 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:51.941 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:52.039 [info] ExtensionService#_doActivateExtension phil294.git-log--graph, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:52.058 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:52.107 [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:52.201 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:52.225 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-08-03 09:05:55.667 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-03 09:05:55.701 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-03 09:05:55.756 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-03 09:06:22.241 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-08-03 09:07:40.624 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-08-03 09:13:24.805 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-08-03 09:44:12.683 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model10)
+2024-08-03 09:44:12.683 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model10)
+2024-08-03 09:44:12.758 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model11)
+2024-08-03 09:44:12.759 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model11)
+2024-08-03 09:46:25.441 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-03 09:46:25.506 [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2024-08-03 09:46:25.506 [error] TypeError: Cannot read private member #e from an object whose class did not declare it
+    at Object.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4121)
+    at d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10039)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+    at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-03 09:46:25.573 [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/peter/.vscode/extensions/vscodevim.vim-1.27.3/out/extension.js:2:642593)
+    at Object.t.deactivate (/home/peter/.vscode/extensions/vscodevim.vim-1.27.3/out/extension.js:2:176670)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:9844)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+    at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-03 09:46:25.602 [error] Canceled: Canceled
+    at new I (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+    at S.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+    at Proxy.z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at A.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+    at f.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+    at w (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1455:39724)
+    at c (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1455:44783)
+    at ActionRunners._updateContextKeys (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:19641)
+    at s (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:18085)
+    at RegisteredActionRunner.unregister (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:18228)
+    at RegisteredActionRunner.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:16881)
+    at ActionRunners.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:17668)
+    at /home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1414:20154
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1414:20136)
+    at d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10039)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+    at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-03 09:46:25.603 [error] Canceled: Canceled
+    at new I (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+    at S.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+    at Proxy.z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at A.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+    at f.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+    at w (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1455:39724)
+    at c (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1455:44783)
+    at ActionRunners._updateContextKeys (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:19641)
+    at s (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:18085)
+    at RegisteredActionRunner.unregister (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:18228)
+    at RegisteredActionRunner.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:16881)
+    at ActionRunners.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:17668)
+    at /home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1414:20154
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1414:20136)
+    at d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10039)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+    at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-03 09:46:25.604 [error] Canceled: Canceled
+    at new I (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+    at S.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+    at Proxy.z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at A.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+    at f.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+    at w (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1455:39724)
+    at c (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1455:44783)
+    at ActionRunners._updateContextKeys (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:19641)
+    at s (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:18085)
+    at RegisteredActionRunner.unregister (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:18228)
+    at RegisteredActionRunner.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:16881)
+    at ActionRunners.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1101:17668)
+    at /home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1414:20154
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/peter/.vscode/extensions/eamodio.gitlens-15.2.3/dist/gitlens.js:1414:20136)
+    at d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10039)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+    at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-03 09:46:25.616 [error] Canceled: Canceled
+    at new I (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+    at S.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+    at Proxy.z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at A.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+    at f.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+    at f.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+    at f.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+    at pE (/home/peter/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.5/dist/extension.js:40:8764)
+    at Ne (/home/peter/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.5/dist/extension.js:4:1357)
+    at me (/home/peter/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.5/dist/extension.js:3:6845)
+    at Immediate.<anonymous> (/home/peter/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.5/dist/extension.js:3:6723)
+    at processImmediate (node:internal/timers:478:21) setContext undefined
+2024-08-03 09:46:25.653 [info] Extension host with pid 378281 exiting with code 0

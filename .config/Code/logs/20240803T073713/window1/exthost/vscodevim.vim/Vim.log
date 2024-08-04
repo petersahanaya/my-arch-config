@@ -1,0 +1,23 @@
+2024-08-03 07:37:21.262 [error] Remapping of 'undefined' should be a string array.
+2024-08-03 07:37:30.007 [info] Active editor: file:///home/peter/Developer/nextjs/day_2/src/app/page.tsx
+2024-08-03 07:37:40.726 [info] Executing :w
+2024-08-03 07:37:42.576 [info] Executing :w
+2024-08-03 07:37:43.366 [info] Executing :w
+2024-08-03 07:37:49.417 [info] Active editor: file:///home/peter/Developer/nextjs/day_2/.prettierrc
+2024-08-03 07:37:49.438 [info] /home/peter/Developer/nextjs/day_2/src/app/page.tsx.git closed
+2024-08-03 07:37:52.481 [info] Executing :w
+2024-08-03 07:37:53.841 [info] Executing :w
+2024-08-03 07:37:55.347 [info] Configuration changed
+2024-08-03 07:37:55.349 [error] Remapping of 'undefined' should be a string array.
+2024-08-03 07:38:31.110 [info] /home/peter/Developer/nextjs/day_2/.prettierrc closed
+2024-08-03 07:38:31.140 [info] /home/peter/Developer/nextjs/day_2/.prettierrc.git closed
+2024-08-03 07:38:31.198 [info] Active editor: file:///home/peter/Developer/nextjs/day_2/.prettierrc.json
+2024-08-03 07:38:33.801 [info] Executing :w
+2024-08-03 07:38:34.364 [info] Executing :w
+2024-08-03 07:38:36.090 [info] /home/peter/Developer/nextjs/day_2/.prettierrc.json closed
+2024-08-03 07:38:36.100 [info] Active editor: file:///home/peter/Developer/nextjs/day_2/src/app/page.tsx
+2024-08-03 07:38:36.121 [info] /home/peter/Developer/nextjs/day_2/.prettierrc.json.git closed
+2024-08-03 07:38:38.388 [info] Executing :w
+2024-08-03 07:38:39.984 [info] Executing :w
+2024-08-03 07:38:43.720 [info] Executing :w
+2024-08-03 07:38:50.726 [info] Executing :w
